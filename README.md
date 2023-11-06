@@ -21,7 +21,7 @@ All project files are conveniently organized within this repository:
 - Run the notebooks first
 - Then run the train.py and predict.py scripts independently
 - Create the Docker environment from the Dockerfile if you want to run Docker locally
-- If you don't want to hold via Docker locally, you can follow the instructions from the link below to host on PythonAnywhere for free
+- If you don't want to host via Dockerlocally, then you can follow the instructions from the link below to host on PythonAnywhere for free
 
 ## Hosting
 
