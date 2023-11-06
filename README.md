@@ -3,8 +3,6 @@ This project contains multiple models to predict data scientist salaries in USD 
 
 # Machine Learning Project: Predicting Data Scientist Salaries
 
-![Model Predictions]
-
 ## Overview
 
 This machine learning project aims to predict the salary of a data scientist based on various features. Whether you're exploring the world of data science salaries or looking to enhance your predictive modeling skills, this repository contains everything you need.
@@ -19,11 +17,15 @@ All project files are conveniently organized within this repository:
 
 ## How to Use
 
-For detailed instructions on how to use and navigate this project, check out the [How-To Guide](https://github.com/nindate/ml-zoomcamp-exercises/blob/main/how-to-use-pythonanywhere.md).
+- Download all notebooks and files
+- Run the notebooks first
+- Then run the train.py and predict.py scripts independently
+- Create the Docker environment from the Dockerfile if you want to run Docker locally
+- If you don't want to hold via Docker locally, you can follow the instructions from the link below to host on PythonAnywhere for free
 
 ## Hosting
 
-This project is hosted on [PythonAnywhere]([https://www.pythonanywhere.com/)](http://bcopeland64.pythonanywhere.com/) for free hosting. The decision to choose PythonAnywhere was driven by its simplicity and convenience. You can find more information on hosting and deployment in the [How-To Guide](https://github.com/nindate/ml-zoomcamp-exercises/blob/main/how-to-use-pythonanywhere.md).
+This project is hosted on [PythonAnywhere]([https://www.pythonanywhere.com/)] for free hosting. The decision to choose PythonAnywhere was driven by its simplicity and convenience. You can find more information on hosting and deployment in the [How-To Guide](https://github.com/nindate/ml-zoomcamp-exercises/blob/main/how-to-use-pythonanywhere.md).
 
 ## Model Predictions
 
