@@ -29,7 +29,7 @@ This project is hosted on [PythonAnywhere]([https://www.pythonanywhere.com/)] fo
 
 ## Model Predictions
 
-The image above showcases predictions made by the model, providing a visual insight into its performance. *Screenshot from model prediction from hosted webapp*
+The image below showcases predictions made by the model, providing a visual insight into its performance. *Screenshot from model prediction from hosted webapp*
 
 !![Screenshot from 2023-11-06 14-01-42](https://github.com/Bcopeland64/ML-Zoomcamp-Capstone-Project/assets/47774770/33480509-e2ec-4ab6-8d6a-1f7ebe6e617d)
 
